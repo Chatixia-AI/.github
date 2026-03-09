@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Chatixia-AI/chatixia-vscode/main/media/chatixia-icon.png" alt="Chatixia AI" width="120" />
+
 # Chatixia AI
 
 **Creative communication meets artificial intelligence.**
