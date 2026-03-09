@@ -14,7 +14,7 @@ We build tools that make AI-powered creativity accessible to everyone — from r
 
 ## Our Projects
 
-### 📱 [Chatixia](https://github.com/Chatixia-AI/chatixia) — Realtime Image Chat
+### 📱 Chatixia — Realtime Image Chat
 A cross-platform mobile app (iOS & Android) that blends text messaging with AI-generated visual content. Type a prompt, get an image — right inside the conversation.
 
 - Real-time text chat powered by Firebase
@@ -22,7 +22,7 @@ A cross-platform mobile app (iOS & Android) that blends text messaging with AI-g
 - Virtual avatar system *(in development)*
 - Built with React Native & Expo
 
-### 🧠 [Chatixia App](https://github.com/Chatixia-AI/chatixia-app) — Personal Knowledge Memo
+### 🧠 Chatixia App — Personal Knowledge Memo
 A web app where you sketch ideas freely on an Excalidraw-powered canvas, then let AI extract concepts and relationships into an interactive knowledge map.
 
 - Freeform sketchpad with auto-save
@@ -30,7 +30,7 @@ A web app where you sketch ideas freely on an Excalidraw-powered canvas, then le
 - Interactive concept graph with d3-force layout
 - Built with React, TypeScript, Vite & Firebase
 
-### 🎯 [Chatixia Advisor](https://github.com/Chatixia-AI/chatixia-advisor) — AI Career Advisory
+### 🎯 Chatixia Advisor — AI Career Advisory
 An AI-powered backend service that provides personalised career guidance for aspiring engineers through conversational profiling, skill-graph analysis, and market intelligence.
 
 - Multi-agent architecture (Orchestrator → Specialist agents)
@@ -38,14 +38,14 @@ An AI-powered backend service that provides personalised career guidance for asp
 - Market trend matching and career roadmaps
 - Built with Python, FastAPI & Azure OpenAI
 
-### 💻 [Chatixia VS Code](https://github.com/Chatixia-AI/chatixia-vscode) — Career Growth Toolkit
+### 💻 Chatixia VS Code — Career Growth Toolkit
 A VS Code extension that helps engineers track and grow their career directly from the editor.
 
 - Notebooks, journal, goals & skills tracking
 - Markdown-first with drag-and-drop support
 - Dashboard overview and data export
 
-### 📖 [Chatixia Docs](https://github.com/Chatixia-AI/chatixia-docs) — Documentation Website
+### 📖 Chatixia Docs — Documentation Website
 The official documentation site for the Chatixia AI platform — design specs, architecture, roadmap, and more.
 
 - Built with React, TypeScript & Tailwind CSS
