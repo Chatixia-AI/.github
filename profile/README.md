@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Chatixia-AI/chatixia-vscode/main/media/chatixia-icon.png" alt="Chatixia AI" width="120" />
+<img src="https://raw.githubusercontent.com/Chatixia-AI/.github/main/profile/assets/chatixia-icon.png" alt="Chatixia AI" width="120" />
 
 # Chatixia AI
 
