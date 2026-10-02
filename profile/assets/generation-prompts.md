@@ -61,3 +61,23 @@ Output a single finished 3:1 wide header only.
 - `guide-chronicle.webp`: https://chatixia.net/cast/guide-chronicle.webp
 - `guide-mesh.webp`: https://chatixia.net/cast/guide-mesh.webp
 - `studio-lsp.jpg`: https://studio.chatixia.net/thumbs/lsp-3d.jpg
+- `studio-icon.png` / `studio-icon.webp`: Chatixia Studio 3D Grid Stage & Prism icon
+
+## Chatixia Studio 3D Grid Stage icon
+
+Generated on October 3, 2026. Style reference: `chatixia-avatar.png` and Chronicle's `icon-blueprint.png`.
+
+```text
+Use case: logo-brand.
+Asset type: brand icon for Chatixia Studio, the visual storytelling and film division of Chatixia AI that creates short 3D films explaining software and AI systems.
+Reference style: match the supplied reference images closely. Use the exact same visual identity: solid edge-to-edge midnight blueprint navy background (#081A31), warm golden amber (#FFB45E), soft sky blue (#7CC7FF), and cream white (#E8F2FF).
+Primary request: Concept 4 — The 3D Grid Stage & Lens. An isometric architectural scene diorama representing spatial storytelling and explanation.
+An isometric corner stage platform: a vertical backdrop wall in soft sky blue (#7CC7FF) meeting an isometric ground floor plane in warm golden amber (#FFB45E) with a clean folded downward lip.
+Hovering in the center of the stage is a single floating geometric play-triangle / diamond prism in cream white (#E8F2FF) and amber, casting a crisp geometric silhouette.
+Style: flat contemporary graphic identity, razor-clean geometric edges, flat vector planes with subtle tonal variation on the fold surfaces to show paper-like layering. No gradients, no glass, no photorealistic lighting or 3D chrome.
+Composition: 1024x1024 square, solid edge-to-edge midnight navy background (#081A31). Center a single emblem occupying roughly 60% of canvas width and height, completely safe within a circular avatar crop.
+Text: none.
+Avoid: realistic theater curtains, stage lights, human figures, text, complex textures.
+Output one finished square icon.
+```
+
