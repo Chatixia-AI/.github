@@ -61,4 +61,3 @@ Output a single finished 3:1 wide header only.
 - `guide-chronicle.webp`: https://chatixia.net/cast/guide-chronicle.webp
 - `guide-mesh.webp`: https://chatixia.net/cast/guide-mesh.webp
 - `studio-lsp.jpg`: https://studio.chatixia.net/thumbs/lsp-3d.jpg
-
