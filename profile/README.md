@@ -64,7 +64,7 @@ The wider collection lives at **[chatixia.net](https://chatixia.net/)**, includi
 
 ## Join in
 
-Try a tool, report a bug, or contribute a change. For code and technical questions, start in the public repositories. For an idea you'd like to see explained, [request a Studio film](https://studio.chatixia.net/request).
+Try a tool, report a bug, or contribute a change. For code and technical questions, start in the public repositories. For an idea you'd like to see explained, [request a Studio film](https://studio.chatixia.net/request). For anything else, email [chatixia.dev@gmail.com](mailto:chatixia.dev@gmail.com).
 
 [Chronicle issues](https://github.com/Chatixia-AI/agents-chronicle/issues) · [Mesh issues](https://github.com/Chatixia-AI/chatixia-mesh/issues)
 
